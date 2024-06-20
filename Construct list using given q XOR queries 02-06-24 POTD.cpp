@@ -40,7 +40,6 @@ You don't need to read input or print anything. Your task is to complete the fun
 
 Expected Time Complexity: O(q*log(q))
 Expected Auxiliary Space: O(l), where l is only used for output-specific requirements.
-
 */
 
 class Solution {
